@@ -7,7 +7,7 @@ public class Main {
         // print without a new line
         System.out.print("Same!");
         System.out.print("line!");
-
+        // print a number
         System.out.println("\nThe answer is:" + 42);
     }
 }
